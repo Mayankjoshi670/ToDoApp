@@ -1,7 +1,6 @@
 #ToDo App 
 ## Steps to run app
 ### open terminal 
-* cd todoapp-redux 
 * npm install 
 * npm start
 
